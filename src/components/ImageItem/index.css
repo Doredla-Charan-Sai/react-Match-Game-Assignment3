@@ -1,0 +1,10 @@
+.btn-img {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+.thumb {
+  height: 100px;
+  width: 100px;
+}
